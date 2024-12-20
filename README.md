@@ -1,4 +1,3 @@
-# Insta-Automator
 # Instagram Automation Bot 🤖
 
 A simple bot designed to log in to Instagram and follow specific accounts programmatically. This project explores the challenges and potential solutions for automating tasks on Instagram.
