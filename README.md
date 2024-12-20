@@ -1,6 +1,4 @@
 # Insta-Automator
-Here’s your GitHub-friendly README in proper Markdown format:
-
 InstaBot Automation Project
 
 This project demonstrates an attempt to create a simple Instagram automation bot using the instabot library. The bot performs basic tasks such as logging into an account and following specified users.
@@ -27,5 +25,3 @@ This project demonstrates an attempt to create a simple Instagram automation bot
 ⚠️ Disclaimer
 
 This project is for educational purposes only. Automating Instagram actions may violate Instagram’s terms of service and result in account suspension or bans.
-
-Feel free to copy and paste this into your README.md file on GitHub!
